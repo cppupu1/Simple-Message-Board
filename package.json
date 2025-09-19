@@ -1,0 +1,21 @@
+{
+  "name": "simple-message-board",
+  "version": "1.0.0",
+  "description": "简易留言板应用，支持markdown格式",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "marked": "^9.1.2",
+    "sqlite3": "^5.1.7"
+  },
+  "keywords": [
+    "message-board",
+    "markdown",
+    "nodejs"
+  ],
+  "author": "frank.chen",
+  "license": "MIT"
+}
