@@ -1,4 +1,5 @@
 .claude/
+.npm-cache/
 node_modules/
 data/
 .env
